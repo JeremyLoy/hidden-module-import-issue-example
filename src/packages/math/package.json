@@ -1,0 +1,10 @@
+{
+  "name": "@myorg/math",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    ".": "./index.mjs"
+  },
+  "license": "MIT",
+  "packageManager": "yarn@3.8.0"
+}
