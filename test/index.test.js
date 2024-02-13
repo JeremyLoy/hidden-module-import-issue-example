@@ -1,6 +1,6 @@
 import {add} from "@myorg/math";
 // this shouldn't be allowed via autocomplete, and it should be an eslint error
-import {addImplementation} from "@myorg/math/addImplementation";
+import {addImplementation} from "@myorg/math/addImplementation.js";
 
 describe('math', () => {
     it('add correctly', () => {
