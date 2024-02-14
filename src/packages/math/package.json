@@ -6,7 +6,7 @@
     "#root/*": "./*"
   },
   "exports": {
-    ".": "./index.js"
+    "./index.js": "./index.js"
   },
   "license": "MIT",
   "packageManager": "yarn@3.8.0"
